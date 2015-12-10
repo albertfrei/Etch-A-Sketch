@@ -1,0 +1,64 @@
+#header {
+	height: 50px;
+	width: 100%;
+	background-color: #a6a6a6;
+	border-radius-bottom: 2px;
+	text-align: center;
+	display: block;
+}
+
+table{
+	text-align: center;
+	margin: auto;
+	line-height: 47.5px;
+}
+.block {
+	background-color: transparent;
+	height: 50px;
+	width: 50px;
+	display: table-cell;
+	margin: -1px -1px -1px -1px;
+	padding: 0 0 0 0;
+	/*border: 1px solid black;*/
+	float: left;
+	
+}
+
+#container {
+	max-width: 600px;
+	margin: auto;
+	display: table;
+	background-color: #eaeae1;
+	
+}
+
+.colorChange {
+	background-color: red;
+}
+.resetColor {
+	background-color: white
+}
+
+button {
+	display: block;
+	margin: auto;
+}
+
+.gradient {
+	background-color: black;
+	opacity: .1;
+}
+
+.trail {
+	opacity: 1;
+	
+}
+.menu {
+	margin-top: 12px;
+	margin-right: 25px;
+	background-color: white;
+	border: 1px solid #ff1a1a;
+	font-family: Verdana;
+	border-radius: 2px;
+	font-weight: bold;
+}
